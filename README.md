@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BradlyGutierrez</h1>
 <h3 align="center">A Programing Student from Nicaragua</h3>
-🌱 I’m currently learning **Python, Java and SQL**
+<h4 align= "center">🌱 I’m currently learning **Python, Java and SQL</h4>
 <hr style="border-color:red">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bradlygutierrez&theme=radical&label=Profile%20views&color=0e75b6&style=flat" alt="bradlygutierrez" /> </p>
