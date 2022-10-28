@@ -21,11 +21,15 @@
 
 <hr style="border:15px;"><hr style="border:2px;">
 <h1>💥Stats</h1>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradlygutierrez&show_icons=true&theme=radical&locale=en&layout=compact" alt="bradlygutierrez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradlygutierrez&show_icons=true&theme=radical&locale=en&layout=compact" alt="bradlygutierrez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bradlygutierrez&show_icons=true&theme=radical" alt="bradlygutierrez" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradlygutierrez&show_icons=true&theme=radical)
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9356da695a9090f846e67c67bee3e62b73b0db6b3f575ea75d7916f10b8591e6/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a786172656173267468656d653d676f7468616d26617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4d79253230436f6e747269627574696f6e2532304772617068"><img src="https://camo.githubusercontent.com/9356da695a9090f846e67c67bee3e62b73b0db6b3f575ea75d7916f10b8591e6/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a786172656173267468656d653d676f7468616d26617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4d79253230436f6e747269627574696f6e2532304772617068" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=bradlygutierrez&amp;theme=gotham&amp;area=true&amp;hide_border=true&amp;custom_title=My%20Contribution%20Graph" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9356da695a9090f846e67c67bee3e62b73b0db6b3f575ea75d7916f10b8591e6/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a786172656173267468656d653d676f7468616d26617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4d79253230436f6e747269627574696f6e2532304772617068"><img src="https://camo.githubusercontent.com/9356da695a9090f846e67c67bee3e62b73b0db6b3f575ea75d7916f10b8591e6/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a786172656173267468656d653d676f7468616d26617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4d79253230436f6e747269627574696f6e2532304772617068" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=bradlygutierrez&amp;theme=gotham&amp;area=true&amp;hide_border=true&amp;custom_title=My%20Contribution%20Graph" style="max-width: 100%;"></a></p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
