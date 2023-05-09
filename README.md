@@ -61,12 +61,14 @@
 <h1>💥Stats</h1>
 
 
- 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bradlygutierrez&show_icons=true&theme=radical&locale=en&layout=compact" width= "400" style="max-width=100%" alt="bradlygutierrez" /> </p>
-
+<div id="stats" width="100%" flex-wrap="wrap" ><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bradlygutierrez&show_icons=true&theme=radical&locale=en&layout=compact" width= "400"  alt="bradlygutierrez" /> </p>
  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bradlygutierrez&show_icons=true&theme=radical" width= "400"   alt="bradlygutierrez" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=bradlygutierrez&show_icons=true&theme=radical" width= "400"   alt="bradlygutierrez" /></p>       
+</div>
 
- <p><img src="https://github-readme-stats.vercel.app/api?username=bradlygutierrez&show_icons=true&theme=radical" width= "400"   alt="bradlygutierrez" /></p>
+
+
+
 
 
 
