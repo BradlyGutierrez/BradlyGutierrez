@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BradlyGutierrez</h1>
 <h3 align="center">A Programing Student from Nicaragua</h3>
-<h4 align="center">🌱 I’m currently learning **Python, Java and SQL</h4>
+<h4 align="center">🌱 I’m currently learning React JS and Node JS</h4>
 
 <hr style="border-color:red">
 <p dir="auto">
