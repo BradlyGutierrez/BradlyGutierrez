@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 System Engineering Student from Nicaragua
 -----------------------------------------
 
-🪴I've been learning programming since 2022, passing through algorithm and data structure, POO, Web development and desktop development. I also know a lit of bit of networks and cybersecurity.
+🪴I've been learning programming since 2022, passing through algorithm and data structure, OOP, Web development and desktop development. I also know a lit of bit of networks and cybersecurity.
 
 * 🌍  I'm based in Nicaragua
 * ✉️  You can contact me at [bradlygc@gmail.com](mailto:bradlygc@gmail.com)
