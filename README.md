@@ -1,65 +1,34 @@
-<h1 align="center">Hi 👋, I'm BradlyGutierrez</h1>
-<h3 align="center">A Programing Student from Nicaragua</h3>
-<h4 align="center">🌱 I’m currently learning Next.JS, PHP and tailwind</h4>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bradly Gutiérrez,
+=========================================================================================================================================
 
-<hr style="border-color:red">
-<p dir="auto">
+System Engineering Student from Nicaragua
+-----------------------------------------
 
+🪴I've been learning programming since 2022, passing through algorithm and data structure, POO, Web development and desktop development. I also know a lit of bit of networks and cybersecurity.
 
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=bradlygutierrez&theme=radical&label=Profile%20views&color=0e75b6&style=flat"
-        alt="bradlygutierrez" /> </p>
+* 🌍  I'm based in Nicaragua
+* ✉️  You can contact me at [bradlygc@gmail.com](mailto:bradlygc@gmail.com)
+* 🧠  I'm learning Next.JS, tailwind and Laravel
+* 🤝  I'm open to collaborating on Any web project.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=bradlygutierrez" alt="bradlygutierrez" /></a> </p>
-
-<hr style="border-color:blue;">
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65"
-            height="60" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="65" height="60" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="65" height="60" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="60" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="65" height="60" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="65" height="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="65" height="60" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="65" height="60" /> </a> </p>
-
-<hr style="border:15px;">
-<hr style="border:2px;">
-<h1>💥Stats</h1>
+### Skills
 
 
-<div id="stats" width="100%" flex-wrap="wrap" ><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bradlygutierrez&show_icons=true&theme=radical&locale=en&layout=compact" width= "400"  alt="bradlygutierrez" /> </p>
- <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bradlygutierrez&show_icons=true&theme=radical" width= "400"   alt="bradlygutierrez" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=bradlygutierrez&show_icons=true&theme=radical" width= "400"   alt="bradlygutierrez" /></p>       
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/bradlygutierrez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bradly-gutiérrez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/bradlygutierrez"><img src="https://github-readme-stats.vercel.app/api?username=bradlygutierrez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bradlygutierrez's GitHub stats" /></a>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/BradlyGutierrez1" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="bradly gutiérrez" height="30" width="50" /></a>
-    <portal id="exampleportal" src="https://twitter.com/BradlyGutierrez1"></portal>
-    <a href="https://instagram.com/bradly_gutierrez_c" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="bradly_gutierrez_c" height="30" width="50" /></a>
-</p> 
+<a href="http://www.github.com/bradlygutierrez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bradlygutierrez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/bradlygutierrez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradlygutierrez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
